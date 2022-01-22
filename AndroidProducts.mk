@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Tokyo_Lite_4G.mk
+    $(LOCAL_DIR)/twrp_Tokyo_Lite_4G.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Tokyo_Lite_4G-user \
-    omni_Tokyo_Lite_4G-userdebug \
-    omni_Tokyo_Lite_4G-eng
+    twrp_Tokyo_Lite_4G-user \
+    twrp_Tokyo_Lite_4G-userdebug \
+    twrp_Tokyo_Lite_4G-eng
