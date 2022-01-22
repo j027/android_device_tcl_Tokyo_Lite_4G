@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_Tokyo_Lite_4G-user
-add_lunch_combo omni_Tokyo_Lite_4G-userdebug
-add_lunch_combo omni_Tokyo_Lite_4G-eng
+add_lunch_combo twrp_Tokyo_Lite_4G-user
+add_lunch_combo twrp_Tokyo_Lite_4G-userdebug
+add_lunch_combo twrp_Tokyo_Lite_4G-eng
