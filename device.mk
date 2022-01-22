@@ -6,3 +6,5 @@
 #
 
 LOCAL_PATH := device/tcl/Tokyo_Lite_4G
+# Dynamic partitions
+PRODUCT_USE_DYNAMIC_PARTITIONS := true
